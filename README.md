@@ -1,1 +1,0 @@
-# Comparison-of-Google-Cloud-Vertex-AI-and-AWS-SageMaker
